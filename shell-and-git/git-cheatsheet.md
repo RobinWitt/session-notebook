@@ -10,6 +10,7 @@
 | mkdir [folderName] | create new folder |
 | mv [origin] [destination] | move and/or rename file or folder |
 | rm [Name] | remove/delete file/folder |
+| cp [fileName] | copy files |
 
 
 
