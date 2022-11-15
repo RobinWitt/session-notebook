@@ -1,4 +1,4 @@
-### My collection of links for WebDev ###
+### Link collection ###
 
 [Mac shortcuts](https://www.heise.de/tipps-tricks/Mac-Kurzbefehle-Die-wichtigsten-Shortcuts-fuer-macOS-3902321.html) - list of macOS keyboard shortcuts  
 [Mac special characters](https://www.heise.de/tipps-tricks/Mac-Sonderzeichen-mit-diesen-Tastenkombinationen-klappt-s-3996796.html) - list of macOS special characters  
